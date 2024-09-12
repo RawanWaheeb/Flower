@@ -1,0 +1,16 @@
+.custom-heading {
+  color: pink;
+}
+
+.custom-button {
+  border: 2px solid black; 
+  padding: 5px 10px;
+  background-color: transparent; 
+}
+
+.custom-button:focus,
+.custom-button:hover {
+  outline: none; 
+  box-shadow: none; 
+  border-color: black; 
+}

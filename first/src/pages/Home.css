@@ -1,0 +1,38 @@
+.home-container {
+    background-image: url('C:\Day19\first\public\photo_2024-08-03_21-23-15.jpg'); 
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh; 
+    display: flex;
+    align-items: center;
+   /*justify-content: center; */
+    color: black; 
+    padding: 100px 300px; 
+  }
+  
+  .content-wrapper {
+    display: flex; 
+    flex-direction: column; 
+    align-items: center; 
+    text-align: center; 
+    max-width: 100%; 
+   
+    padding: 20px; 
+    border-radius: 8px; 
+  }
+  
+  h1 {
+    font-size: 5rem; 
+    margin-bottom: 10px; 
+  }
+  
+  h2 {
+    font-size: 5rem; 
+    margin-bottom: 10px;
+  }
+  
+  p {
+    font-size: 2rem; 
+  }
+  
